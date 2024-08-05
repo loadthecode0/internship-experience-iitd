@@ -30,6 +30,9 @@ You have to be good at algorithms as well as writing clean code. And definitely,
 
 I wasn't good at CP at all initially. But I knew I could be better, so I worked on it. It can definitely be improved with time but the earlier you start, the better.
 
+- Do assignments properly. Develop a habit of using classes and encapsulation. You should be as good at writing clean code as you can, as it leaves a good impression during interviews. 
+- Be thorough with OOP concepts in your language.
+
 #### 2. Quant Roles
 
 - Make sure you do the probability course (MTL106) thoroughly, even if you don't get an A. 
