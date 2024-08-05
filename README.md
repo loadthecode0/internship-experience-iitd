@@ -24,14 +24,16 @@ Don't limit yourself, but get a good understanding of where you stand. Again, co
 
 You have to be good at algorithms as well as writing clean code. And definitely, competitive programming is a big, big boost for tests.
 
-- If you have not done CP before, start with **Leetcode**. You can try the module of 150 interview problems as a starting point. But this will NOT be enough for most tests.
-- Then move to the **CSES Problem set**. It is very educational and enough to get you to think about most standard approaches.
-- Keep giving **Codeforces** contests regularly. Discuss approaches with friends and DON'T feel ashamed if you are not able to think through. It will come to you slowly.
+- Get a good grip of DSA (COL106 if done).
+- If you have not done CP before, start with [Leetcode](https://leetcode.com/). You can try the module of 150 interview problems, or sets like Striver's DSA sheet as a starting point. But this will NOT be enough for most tests.
+- Then move to the [CSES Problem set](https://cses.fi/problemset/list/). It is very educational and enough to get you to think about most standard approaches.
+- Use the famous [CP Handbook](https://cses.fi/book/book.pdf) to get a basic understanding of basic standard algorithms. There were some questions in tests which required implementation of approaches straight from here.
+- Keep giving [Codeforces](https://codeforces.com/problemset) contests regularly. Start ASAP. Discuss approaches with friends and DON'T feel ashamed if you are not able to think through. It will come to you slowly.
 
-I wasn't good at CP at all initially. But I knew I could be better, so I worked on it. It can definitely be improved with time but the earlier you start, the better.
+I wasn't good at CP at all initially. But I knew I could be better, so I worked on it. It can definitely be improved with time but the earlier you start, the better. Virtual contests helped me get faster.
 
 - Do assignments properly. Develop a habit of using classes and encapsulation. You should be as good at writing clean code as you can, as it leaves a good impression during interviews. 
-- Be thorough with OOP concepts in your language.
+- Be thorough with OOP concepts in your language. Geeksforgeeks sheets like [these](https://www.geeksforgeeks.org/c-programming-multiple-choice-questions/?ref=lbp) and [learncpp.com](https://learncpp.com) are good resources for C++.
 
 #### 2. Quant Roles
 
@@ -44,17 +46,21 @@ I wasn't good at CP at all initially. But I knew I could be better, so I worked 
     - 50 Challenging Problems in Probability
     - Heard on the Street
     - Mark Joshi
-    After doing a couple of these, you will get a hang of it and it will get easier to get through the rest.
+- After doing a couple of these, you will get a hang of it and it will get easier to get through the rest.
 - Discuss approaches with friends.
 - Some quant tests will ask CP problems, so be ready for that.
 
-Be collaborative with your peers, don't get too competitive!
+Be collaborative with your peers, don't get too competitive amongst yourselves!
 
 ## C. Other General Stuff
-1. Tests ARE getting harder every year.
-2. Put expectations aside. There will be occasions where you think you deserved a shortlist more than someone who actually got it. Something better is in store for you.
-3. Support your friends, and they will support you. This is what kept me sane.
-4. OCS Slottings can unfortunately lead to a potential waste of shortlists. In my case, I had only two shortlists that I actually wanted in the first slot of Day 1 (Optiver and Glean). My other quant preferences were in the second slot. But I couldn't risk giving the first slot interviews badly to be able to sit for Slot 2. So, essentially, my Slot 2 quant shortlists got wasted since I had to get something in Slot 1. But it turned out well in the end.
-5. Face rejection with strength. It may happen multiple times if you are in the larger majority of people.
 
-That's mostly all! All the best to future aspirants!
+1. Tests ARE getting harder every year.
+2. Be ready to give tests at midnight.
+3. Put expectations aside. There will be occasions where you think you deserved a shortlist more than someone who actually got it. Something better is in store for you.
+4. Support your friends, and they will support you. This is what kept me sane.
+5. OCS Slottings can unfortunately lead to a potential waste of shortlists. In my case, I had only two shortlists that I actually wanted in the first slot of Day 1 (Optiver and Glean). My other quant preferences were in the second slot. But I couldn't risk giving the first slot interviews badly to be able to sit for Slot 2. So, essentially, my Slot 2 quant shortlists got wasted since I had to get something in Slot 1. But it turned out well in the end.
+6. Face rejection with strength. It may happen multiple times if you are in the larger majority of people.
+7. Expect OCS to give you a hard time in general.
+8. Companies may delay interviews purposely. It is your job to handle the situation diplomatically so as to not reduce your chances of getting offers by telling them off, while at the same time making sure you are able to give your top priority interviews well.
+
+All the best to future aspirants!
